@@ -1,0 +1,7 @@
+name: fundamentals
+channels:
+    - eaton-lab
+    - conda-forge
+dependencies:
+    - msprime
+    - toytree
